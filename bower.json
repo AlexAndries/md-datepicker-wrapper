@@ -1,0 +1,20 @@
+{
+  "name": "md-datepiker-wrapper",
+  "authors": [
+    "Alex Andries <alexandru.andries@xivic.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "latest"
+  }
+}

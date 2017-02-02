@@ -1,0 +1,18 @@
+.md-datepicker-wrapper-arrows {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+  top: 0;
+}
+
+.md-datepicker-wrapper-arrows-left {
+  float: left;
+}
+
+.md-datepicker-wrapper-arrows-right {
+  float: left;
+}
+
+.md-datepicker-wrapper-input-mask {
+  pointer-events: auto;
+}

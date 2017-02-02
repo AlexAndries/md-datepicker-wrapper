@@ -1,0 +1,11 @@
+.idea
+bower_components
+node_modules
+gulp
+gulpfile.js
+karma.conf.js
+package.json
+build.sh
+protractor.conf.js
+serve.sh
+.tmp
