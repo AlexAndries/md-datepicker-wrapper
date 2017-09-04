@@ -3,6 +3,8 @@
   right: 0;
   z-index: 10;
   top: 0;
+  width: 100%;
+  background-color: #fff;
 }
 
 .md-datepicker-wrapper-arrows-left {
@@ -10,9 +12,9 @@
 }
 
 .md-datepicker-wrapper-arrows-right {
-  float: left;
+  float: right;
 }
 
-.md-datepicker-wrapper-input-mask {
+.md-datepicker-calendar-pane .md-datepicker-wrapper-input-mask {
   pointer-events: auto;
 }
