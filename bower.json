@@ -5,8 +5,8 @@
   ],
   "description": "",
   "main": [
-    "dist/md-datepicker-wrapper.min.css",
-    "dist/md-datepicker-wrapper.min.js"
+    "src/md-datepicker-wrapper/md-datepicker-wrapper.css",
+    "src/md-datepicker-wrapper/md-datepicker-wrapper.js"
   ],
   "license": "MIT",
   "homepage": "",
