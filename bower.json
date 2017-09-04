@@ -4,7 +4,10 @@
     "Alex Andries <alexandru.andries@outlook.com>"
   ],
   "description": "",
-  "main": "",
+  "main": [
+    "dist/md-datepicker-wrapper.min.css",
+    "dist/md-datepicker-wrapper.min.js"
+  ],
   "license": "MIT",
   "homepage": "",
   "ignore": [
